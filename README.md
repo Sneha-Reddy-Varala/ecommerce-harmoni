@@ -5,7 +5,6 @@ This is a fully responsive e-commerce shopping website project built using React
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
 
@@ -22,14 +21,6 @@ This is a fully responsive e-commerce shopping website project built using React
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Fake Store API**: A free API for testing and prototyping e-commerce websites
 - **Context API**: A React API for managing global state in an application.
-
-## Screenshots
-
-Below are some screenshots of the website.
-
-![Home Page](/src/img/home-page.png)
-
-![Cart/Sidebar](/src/img/cart.png)
 
 ## Installation and Setup
 
