@@ -7,6 +7,7 @@ This is a fully responsive e-commerce shopping website project built using React
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
+- [Areas would improve](#areas-would-improve)
 
 ## Features
 
@@ -28,5 +29,11 @@ This is a fully responsive e-commerce shopping website project built using React
 2. Navigate to the project directory and run `npm install` to install all dependencies.
 3. Run `npm start` to start the application.
 4. Open `http://localhost:3000` in your browser to view the website.
+
+## Areas would improve
+
+1. Security and API Integration (using JWT)
+2. Payment Gateway integaration
+3. Signup/Login page for Users
 
 Thank you!
